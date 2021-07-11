@@ -1,0 +1,13 @@
+/home/paulodsc/workspace/cursoCSharp/cadastro-series/bin/Debug/netcoreapp3.1/cadastro-series
+/home/paulodsc/workspace/cursoCSharp/cadastro-series/bin/Debug/netcoreapp3.1/cadastro-series.deps.json
+/home/paulodsc/workspace/cursoCSharp/cadastro-series/bin/Debug/netcoreapp3.1/cadastro-series.runtimeconfig.json
+/home/paulodsc/workspace/cursoCSharp/cadastro-series/bin/Debug/netcoreapp3.1/cadastro-series.runtimeconfig.dev.json
+/home/paulodsc/workspace/cursoCSharp/cadastro-series/bin/Debug/netcoreapp3.1/cadastro-series.dll
+/home/paulodsc/workspace/cursoCSharp/cadastro-series/bin/Debug/netcoreapp3.1/cadastro-series.pdb
+/home/paulodsc/workspace/cursoCSharp/cadastro-series/obj/Debug/netcoreapp3.1/cadastro-series.csprojAssemblyReference.cache
+/home/paulodsc/workspace/cursoCSharp/cadastro-series/obj/Debug/netcoreapp3.1/cadastro-series.AssemblyInfoInputs.cache
+/home/paulodsc/workspace/cursoCSharp/cadastro-series/obj/Debug/netcoreapp3.1/cadastro-series.AssemblyInfo.cs
+/home/paulodsc/workspace/cursoCSharp/cadastro-series/obj/Debug/netcoreapp3.1/cadastro-series.csproj.CoreCompileInputs.cache
+/home/paulodsc/workspace/cursoCSharp/cadastro-series/obj/Debug/netcoreapp3.1/cadastro-series.dll
+/home/paulodsc/workspace/cursoCSharp/cadastro-series/obj/Debug/netcoreapp3.1/cadastro-series.pdb
+/home/paulodsc/workspace/cursoCSharp/cadastro-series/obj/Debug/netcoreapp3.1/cadastro-series.genruntimeconfig.cache
